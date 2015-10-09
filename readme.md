@@ -12,3 +12,7 @@ Documentation for the framework can be found on the [Laravel website](http://lar
 
 
 ## Creating your very first migrations 2015 - CharlieC
+
+Worked completed so far:
+
+1. 07 - Starting Migrations-Xampp
