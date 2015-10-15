@@ -18,3 +18,4 @@ Worked completed so far:
 1. 07 - Starting Migrations-Xampp
 2. 08 - Changing User Fields
 3. 09 - Using Tinker (Tinker Terminates early on Cygwin)
+4. 10 - Seeding The Database
